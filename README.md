@@ -16,4 +16,4 @@
 ### 사용 프로그램
 |엑셀|미리 캔버스|R|파이썬|
 | :---: | :---: | :---: | :---: |
-|<img src=https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/assets/114473861/555a5617-412e-4549-965f-c5559e82c06d width=150px>|<img src=https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/assets/114473861/43910ff8-c960-4fa8-a577-1d6cde29f96f width=150px>|<img src=https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/assets/114473861/3d2f0a7a-8698-4662-92e9-8f3b758a0398 width=150px>|![image](https://github.com/Juseong-Yu/Gangnam_puplic_data_idea/assets/114473861/5d052da9-9066-4c9b-b87d-0fc87c43347c)|
+|<img src=https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/assets/114473861/555a5617-412e-4549-965f-c5559e82c06d width=150px>|<img src=https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/assets/114473861/43910ff8-c960-4fa8-a577-1d6cde29f96f width=150px>|<img src=https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/assets/114473861/3d2f0a7a-8698-4662-92e9-8f3b758a0398 width=150px>|<img src=https://github.com/Juseong-Yu/Gangnam_puplic_data_idea/assets/114473861/5d052da9-9066-4c9b-b87d-0fc87c43347c width=150px>|
