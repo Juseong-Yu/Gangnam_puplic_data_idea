@@ -27,7 +27,7 @@ ggplot(data = NotLegalParking_graph_area, aes(x = 집계년도, y = 결과, col 
 # 주차장 위치 시각화
 install.packages("ggmap")
 library(ggmap)
-register_google(key="AIzaSyC0U6lhBsLUQ8pPVbKg8aTOK-2ckK5R99U")
+register_google(key="GooglemapKey")
 boxLocation = c(127.0207, 37.46461,127.1186, 37.53086)
 Gangnam <- get_map(boxLocation, maptype = "roadmap")
 ggplot() + geom_point(data = ParkingLot, aes(x = 경도, y = 위도, color = 소재지지번주소, size = 주차구획수))
