@@ -9,7 +9,7 @@
 | :---: | :---: | 
 |팀장|팀원|
 |<img src=https://github.com/Juseong-Yu/Gangnam_puplic_data_idea/assets/114473861/13f8c107-761c-4efa-bc02-31a52144c9a3 width=150px>|<img src=https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/assets/114473861/999395aa-fc32-468a-80ee-f3fc0467f6a5 width=150px>|
-|자료 수집</br>데이터 정리</br>ppt 제작|데이터 정리</br>데이터 분석
+|자료 수집</br>데이터 정리</br>ppt 제작|자료 수집</br>데이터 정리</br>데이터 분석
 <br/>
 
 ### 사용 프로그램
